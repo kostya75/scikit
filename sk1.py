@@ -4,4 +4,4 @@ import sklearn
 
 sklearn.__version__
 
-x=np.array([1,2,3,4,5])
+x=np.array([[1,2,3,4,5]])
